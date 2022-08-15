@@ -1,0 +1,57 @@
+.Main_bg{
+    background-color: #3d6099;
+    min-height: 100vh ;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+th{
+    color: #17ced1;
+    font: bold;
+}
+td{
+    color: white;
+}
+
+.input_{
+    padding: 10px 5px ;
+    margin: 5px 0px;
+    border-radius: 10px;
+    width: 70%;
+    background-color:  rgba(0,0,0 ,0.1);
+    /* border: none; */
+}
+
+.card_w{
+    width: 450px;
+    border-radius: 10px;
+    background-color:  rgba(0,0,0 ,0.5);
+    margin: 5% 0%;
+
+}
+.h1{
+    padding: 10px 0px;
+    color: white;
+}
+.fl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 10px 0px; */
+}
+
+.btn_f{
+    background-color:  rgba(0,0,0 ,0.3);
+    margin: 10px 0px;
+    color: white;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+
+.btn_f:hover{
+    color: white;
+    background-color: rgba(0,0,0 ,0.6) ;
+}
+
