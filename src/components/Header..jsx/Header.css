@@ -19,6 +19,7 @@ td{
     margin: 5px 0px;
     border-radius: 10px;
     width: 70%;
+    color: white;
     background-color:  rgba(0,0,0 ,0.1);
     /* border: none; */
 }
@@ -54,4 +55,5 @@ td{
     color: white;
     background-color: rgba(0,0,0 ,0.6) ;
 }
+
 
